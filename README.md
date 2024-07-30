@@ -1,0 +1,4 @@
+- Olá!
+- Sou um estudante do curso de Jogos Digitais e quero contar com este espaço para aprender com a comunidade e
+- apresentar futuros projetos pessoais que serão criados para o desenvolvimento de minhas habilidades como
+- desenvolvedor de jogos.
